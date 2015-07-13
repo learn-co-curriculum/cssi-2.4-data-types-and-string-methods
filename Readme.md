@@ -36,7 +36,34 @@ variable.method()
 ```
 
 ### Some String Methods
-![table of string methods](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/learninglabs/9780133902990/graphics/03tab06.jpg)
+
+Many times, you can open up the JavaScript console to test what a certain method does. The following examples use a variable, my_text:
+
+> `my_text = "cssiRocks"`
+
+**.charAt(x)** - Returns the character at the “x” position within the string
+```
+> my_text.charAt(0) 
+< "c"
+```
+**.concat(string1, string2)** - Combines one or more strings (arguments) into the existing one.
+```
+> my_text.concat("duh")
+< "cssiRocksduh"
+```
+**indexOf(substr, [start])** - Searches and (if found) returns the index number of the searched character or substring. If not found, -1 is returned.
+```
+> my_text.indexOf("r")
+< -1
+> my_text.indexOf("R")
+< 4
+```
+
+**substr(start, [length])** - Returns the characters in a string beginning at “start” and through the specified number of characters, “length”. If length is not included, this function returns the remaining characters.
+```
+> my_text.substr(1,4)
+< "ssiR"
+```
 
 ###Different Method Syntaxes
 Sometimes, there are multiple syntaxes that do the same thing.
@@ -83,3 +110,5 @@ string methods, talk to a classmate, or consult your ducky droid!
 
 ##Resources
 [W3 Schools String Methods](http://www.w3schools.com/js/js_string_methods.asp)
+
+[15 JavaScript String Functions](http://www.sitepoint.com/15-javascript-string-functions/)
