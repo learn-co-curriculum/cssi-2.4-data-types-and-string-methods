@@ -93,7 +93,7 @@ You can combine these tricks. You can even store the resultant value in the same
 > lemonColor = lemonColor.toUpperCase()
 > lemonColor
 ```
-The key to understanding this mind trip is that the interpreter handles everything on the right side of the "=" before dealing with the left side.
+The key to understanding this mind trip is that JavaScript handles everything on the right side of the "=" before dealing with the left side.
 
 We can also call a property on string to find out some valuable information about it, using the length property.
 ```
