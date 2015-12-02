@@ -108,3 +108,5 @@ string methods, talk to a classmate, or consult your ducky droid!
 [W3 Schools String Methods](http://www.w3schools.com/js/js_string_methods.asp)
 
 [15 JavaScript String Functions](http://www.sitepoint.com/15-javascript-string-functions/)
+
+<a href='https://learn.co/lessons/cssi-2.4-data-types-and-string-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
