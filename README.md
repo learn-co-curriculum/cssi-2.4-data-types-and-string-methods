@@ -109,4 +109,4 @@ string methods, talk to a classmate, or consult your ducky droid!
 
 [15 JavaScript String Functions](http://www.sitepoint.com/15-javascript-string-functions/)
 
-<a href='https://learn.co/lessons/cssi-2.4-data-types-and-string-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.4-data-types-and-string-methods' title='JavaScript Data Types and String Methods'>JavaScript Data Types and String Methods</a> on Learn.co and start learning to code for free.</p>
